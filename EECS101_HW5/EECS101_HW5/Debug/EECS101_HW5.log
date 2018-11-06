@@ -1,0 +1,16 @@
+﻿  hw5.c
+c:\users\paolo\documents\visual studio 2015\projects\eecs101_hw5\eecs101_hw5\hw5.c(36): warning C4047: 'function': 'int *' differs in levels of indirection from 'int (*)[3]'
+c:\users\paolo\documents\visual studio 2015\projects\eecs101_hw5\eecs101_hw5\hw5.c(36): warning C4024: 'edge_detect': different types for formal and actual parameter 1
+c:\users\paolo\documents\visual studio 2015\projects\eecs101_hw5\eecs101_hw5\hw5.c(38): warning C4047: 'function': 'int *' differs in levels of indirection from 'int (*)[3]'
+c:\users\paolo\documents\visual studio 2015\projects\eecs101_hw5\eecs101_hw5\hw5.c(38): warning C4024: 'hough_transform': different types for formal and actual parameter 1
+c:\users\paolo\documents\visual studio 2015\projects\eecs101_hw5\eecs101_hw5\hw5.c(52): warning C4101: 'dedy': unreferenced local variable
+c:\users\paolo\documents\visual studio 2015\projects\eecs101_hw5\eecs101_hw5\hw5.c(52): warning C4101: 'sgm': unreferenced local variable
+c:\users\paolo\documents\visual studio 2015\projects\eecs101_hw5\eecs101_hw5\hw5.c(52): warning C4101: 'dedx': unreferenced local variable
+c:\users\paolo\documents\visual studio 2015\projects\eecs101_hw5\eecs101_hw5\hw5.c(152): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\paolo\documents\visual studio 2015\projects\eecs101_hw5\eecs101_hw5\hw5.c(226): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\paolo\documents\visual studio 2015\projects\eecs101_hw5\eecs101_hw5\hw5.c(227): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\paolo\documents\visual studio 2015\projects\eecs101_hw5\eecs101_hw5\hw5.c(253): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+c:\users\paolo\documents\visual studio 2015\projects\eecs101_hw5\eecs101_hw5\hw5.c(254): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+c:\users\paolo\documents\visual studio 2015\projects\eecs101_hw5\eecs101_hw5\hw5.c(265): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+  EECS101_HW5.vcxproj -> C:\Users\Paolo\Documents\Visual Studio 2015\Projects\EECS101_HW5\Debug\EECS101_HW5.exe
+  EECS101_HW5.vcxproj -> C:\Users\Paolo\Documents\Visual Studio 2015\Projects\EECS101_HW5\Debug\EECS101_HW5.pdb (Partial PDB)

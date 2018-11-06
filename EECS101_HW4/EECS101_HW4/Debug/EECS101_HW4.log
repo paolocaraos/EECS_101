@@ -1,0 +1,8 @@
+﻿  hw4.c
+c:\users\paolo\documents\visual studio 2015\projects\eecs101_hw4\eecs101_hw4\hw4.c(96): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\paolo\documents\visual studio 2015\projects\eecs101_hw4\eecs101_hw4\hw4.c(97): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\paolo\documents\visual studio 2015\projects\eecs101_hw4\eecs101_hw4\hw4.c(123): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+c:\users\paolo\documents\visual studio 2015\projects\eecs101_hw4\eecs101_hw4\hw4.c(124): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+c:\users\paolo\documents\visual studio 2015\projects\eecs101_hw4\eecs101_hw4\hw4.c(135): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+  EECS101_HW4.vcxproj -> C:\Users\Paolo\Documents\Visual Studio 2015\Projects\EECS101_HW4\Debug\EECS101_HW4.exe
+  EECS101_HW4.vcxproj -> C:\Users\Paolo\Documents\Visual Studio 2015\Projects\EECS101_HW4\Debug\EECS101_HW4.pdb (Partial PDB)

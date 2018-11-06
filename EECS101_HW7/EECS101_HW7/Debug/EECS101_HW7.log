@@ -1,0 +1,14 @@
+﻿  hw7.c
+c:\users\paolo\documents\visual studio 2015\projects\eecs101_hw7\eecs101_hw7\hw7.c(10): warning C4005: 'UCHAR_MAX': macro redefinition
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\limits.h(20): note: see previous definition of 'UCHAR_MAX'
+c:\users\paolo\documents\visual studio 2015\projects\eecs101_hw7\eecs101_hw7\hw7.c(138): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\paolo\documents\visual studio 2015\projects\eecs101_hw7\eecs101_hw7\hw7.c(142): warning C4047: 'function': 'double *' differs in levels of indirection from 'double (*)[3]'
+c:\users\paolo\documents\visual studio 2015\projects\eecs101_hw7\eecs101_hw7\hw7.c(142): warning C4024: 'surfaceNormal': different types for formal and actual parameter 1
+c:\users\paolo\documents\visual studio 2015\projects\eecs101_hw7\eecs101_hw7\hw7.c(145): warning C4047: 'function': 'double *' differs in levels of indirection from 'double (*)[3]'
+c:\users\paolo\documents\visual studio 2015\projects\eecs101_hw7\eecs101_hw7\hw7.c(145): warning C4024: 'hypotheticalNormal': different types for formal and actual parameter 1
+c:\users\paolo\documents\visual studio 2015\projects\eecs101_hw7\eecs101_hw7\hw7.c(157): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+c:\users\paolo\documents\visual studio 2015\projects\eecs101_hw7\eecs101_hw7\hw7.c(38): warning C4101: 'source_vector': unreferenced local variable
+c:\users\paolo\documents\visual studio 2015\projects\eecs101_hw7\eecs101_hw7\hw7.c(44): warning C4101: 'ifilename': unreferenced local variable
+c:\users\paolo\documents\visual studio 2015\projects\eecs101_hw7\eecs101_hw7\hw7.c(34): warning C4101: 'normal_mag': unreferenced local variable
+  EECS101_HW7.vcxproj -> C:\Users\Paolo\Documents\Visual Studio 2015\Projects\EECS101_HW7\Debug\EECS101_HW7.exe
+  EECS101_HW7.vcxproj -> C:\Users\Paolo\Documents\Visual Studio 2015\Projects\EECS101_HW7\Debug\EECS101_HW7.pdb (Partial PDB)
